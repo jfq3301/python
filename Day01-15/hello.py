@@ -5,3 +5,7 @@
 #
 
 print('hello, word!')
+print("hello, word!")
+print('hello', '2 world....')
+#print('hello', 'world', sep=',', end='!')
+#print('hello', 'world', end='!\n')
